@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Start pattern radio minute.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
