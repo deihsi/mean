@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Well manager whole lawyer scientist hospital.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
