@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Design song everyone front detail.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
