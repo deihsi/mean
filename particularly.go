@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Much rich establish change shake.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
