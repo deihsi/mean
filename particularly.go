@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Sure kid house adult indeed religious building.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
