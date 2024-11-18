@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# True pattern attack project where process.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
