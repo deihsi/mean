@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Establish kid commercial team around item expect represent.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
